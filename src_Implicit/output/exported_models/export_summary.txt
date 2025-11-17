@@ -1,0 +1,31 @@
+============================================================
+地质模型导出摘要
+============================================================
+
+导出时间: 2025-11-10 16:17:12.117506
+模型名称: Borehole_Geological_Model
+地层数量: 12
+网格分辨率: [100 100 100]
+模型范围: X[4302648.89, 4306312.28], Y[37421382.94, 37428595.71], Z[891.34, 1267.18]
+Z轴缩放: 10.0x
+
+地层列表:
+  1. surface
+  2. loss
+  3. lishi
+  4. coaltop
+  5. mix
+  6. coalmid
+  7. stonetop
+  8. coalend
+  9. stonemid
+  10. coalendo
+  11. stoneend
+  12. basement
+
+导出格式: vtk, vtu, stl
+导出文件数: 2
+
+导出文件列表:
+  - geological_model_combined.stl
+  - geological_model_combined.vtk
